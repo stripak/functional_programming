@@ -1,0 +1,1 @@
+Print all permutations of numbers from 1 to N in lexicographic order.

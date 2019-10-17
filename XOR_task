@@ -1,0 +1,3 @@
+Two sequences (a1, ..., an) and (b1, ..., bn) from 0 and 1 are fed to the input.
+
+Calculate the sequence from (c1, ..., cn), where each ci = xor (ai, bi).
